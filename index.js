@@ -4,3 +4,5 @@ document.addEventListener("DOMContentloaded", (e) => {
   console.log('hello')
   console.log(movies)
 });
+
+console.log(movies)
